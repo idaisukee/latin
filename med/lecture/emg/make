@@ -1,4 +1,0 @@
-#!/bin/sh
-uplatex *.tex
-dvipdfmx *.dvi
-

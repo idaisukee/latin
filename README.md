@@ -40,9 +40,10 @@
 - [総論](grammar/adjective.md) 
 - [形容詞第 1・2 曲用](grammar/adjective1_2.md)
 - [形容詞第 3 曲用](grammar/adjective3.md)
-- [形容詞の比較級 (grammar/1) 規則変化](grammar/comparative1.md)
-- [形容詞の最上級 (grammar/1) 規則変化](grammar/superlative1.md)
-- [形容詞の最上級 (grammar/2) 不規則変化](grammar/superlative2.md)
+- [形容詞の比較級 規則変化](grammar/comparative1.md)
+- [形容詞の比較級 不規則変化](grammar/comparative2.md)
+- [形容詞の最上級 規則変化](grammar/superlative1.md)
+- [形容詞の最上級 不規則変化](grammar/superlative2.md)
 
 ## 文法要覧
 

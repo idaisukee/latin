@@ -3,6 +3,10 @@
 
 # 目次
 
+## はじめに
+
+- [解剖学英語の不合理な点](introduction/english.md)
+- [rib と costa](introduction/rib_costa.md)
 
 ## 実習
 
@@ -16,11 +20,6 @@
 - [8](practice/8.md)
 
 ## 文法解説
-
-### はじめに
-
-- [解剖学英語の不合理な点](introduction/english.md)
-- [rib と costa](introduction/rib_costa.md)
 
 ### 総論
 

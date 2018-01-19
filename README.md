@@ -62,8 +62,13 @@
 - [形容詞第 3 曲用](reference/adjective3.md)
 - [形容詞から名詞への転用](reference/adjective_to_noun.md)
 
+### 動詞
+
+- [現在能動分詞](reference/現在能動分詞.md)
+
 ### その他
 
+- [母音の交替](reference/母音の交替.md)
 - [接尾辞](reference/suffix.md)
 - [例外](reference/adjective1_2.md)
 

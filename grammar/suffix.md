@@ -12,4 +12,4 @@
 - 回旋筋 M rotator
 - 回外筋 M supinator
 
-曲用は -ator, -oris の第3曲用子音幹になります．
+曲用は -or, -oris の第3曲用子音幹になります．

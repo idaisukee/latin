@@ -11,6 +11,9 @@
 
 dexter, sinister は第 1・2 曲用だから気をつける．
 
+上 superior
+
+下 inferior
 
 浅い superficialis
 

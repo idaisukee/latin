@@ -21,3 +21,9 @@ supinator
 対立する: oppono
 
 m. opponens: 対立筋
+
+recurro
+
+circumflexa
+
+flecto, flectere, flexi, flexum

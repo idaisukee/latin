@@ -10,6 +10,17 @@
 |直説法現在能動相1人称単数|am-o|mone-o|reg-o|capi-o|audi-o|
 |不定法|ama-re|mone-re|reg-e-re|cap-e-re|audi-re|
 
+# 現在幹
+
+不定法の形から -re を除いたものを「現在幹」と呼ぶ．
+
+|不定法|現在幹|
+|amare|ama|
+|monere|mone|
+|regere|rege|
+|capere|cape|
+|audire|audi|
+
 ## 判別
 
 TODO: 調べる．

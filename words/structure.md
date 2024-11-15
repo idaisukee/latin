@@ -19,8 +19,16 @@
 
 円錐 conus
 
+錐体 pyramis, -idis
+
 束 fasciculus
 
 網 rete, -is; 第3曲用子音幹
 
 中隔 septum
+
+輪 anulus
+
+結合 symphysis
+
+孔 foramen, -minis

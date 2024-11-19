@@ -27,6 +27,10 @@ dexter, sinister は第 1・2 曲用だから気をつける．
 
 間 inter-
 
+meta
+
+metacarpus
+
 骨間 interosseus, -a, -um
 
 斜めの obliquus, -a, -um

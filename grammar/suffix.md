@@ -31,3 +31,7 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 ## aneus
 
 cutaneus
+
+## eus
+
+carpeus

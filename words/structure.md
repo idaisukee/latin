@@ -32,3 +32,7 @@
 結合 symphysis
 
 孔 foramen, -minis
+
+角 angulus
+
+弓 arcus

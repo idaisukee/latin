@@ -4,3 +4,5 @@
 carpalis, carpeus
 
 metacarpalis, metacarpeus
+
+thoracis, thoracicus

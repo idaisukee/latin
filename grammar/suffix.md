@@ -24,6 +24,10 @@ io でできた名詞は第3曲用 -io, -ionis の女性になります．
 
 # 形容詞化
 
+## acus
+
+pericardiacus, -a, -um
+
 ## aris
 
 ## alis

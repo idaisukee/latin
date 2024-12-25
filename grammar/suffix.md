@@ -36,6 +36,10 @@ pericardiacus, -a, -um
 
 cutaneus
 
+## aticus
+
+diaphragmaticus, -a, -um
+
 ## eus
 
 carpeus

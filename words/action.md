@@ -27,3 +27,7 @@ recurro
 circumflexa
 
 flecto, flectere, flexi, flexum
+
+transversus
+
+obliquus

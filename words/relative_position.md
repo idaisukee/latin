@@ -33,6 +33,8 @@ metacarpus
 
 骨間 interosseus, -a, -um
 
+直 rectus, -a, -um
+
 斜めの obliquus, -a, -um
 
 Perhaps from ob- (“against”) +‎ licinus (“bent upward”) (Wikt)

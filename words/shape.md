@@ -9,4 +9,6 @@
 
 シグマの形 sigmoideus, -a, -um
 
+方形 quadratus, -a, -um
+
 鋭い acer, -cris, -cre

@@ -12,7 +12,18 @@
 
 # 純粋 i 幹
 
+## 次の6つの女性名詞
 
+- turris, -is 塔
+- febris, -is 熱
+- puppis, -is 船尾
+- securis, -is 斧
+- sitis, -is 渇き
+- vis, -is 力
+
+### -is で終わる川、都市
+
+### -ar, -al, -e で終わる中性名詞
 
 # まとめ
 

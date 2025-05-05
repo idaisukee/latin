@@ -43,3 +43,7 @@ Perhaps from ob- (“against”) +‎ licinus (“bent upward”) (Wikt)
 背側の dorsalis, -e
 
 手掌側の palmaris
+
+臓側の visceralis
+
+壁側の parietalis

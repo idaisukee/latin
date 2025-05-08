@@ -87,6 +87,12 @@ diabetes (尿) がこれに属する。
 
 と曲用する。
 
- 
+# 練習問題
+
+次をラテン語に訳せ．
+
+- うなじ (nucha) の線 (linea): linea nuchae
+- 乳房 (mamma) の乳頭 (papilla): papilla mammae
+- 肩甲骨 (scapula) の切痕 (incisura): incisura scapulae
 
  

@@ -19,6 +19,17 @@
 		"prefix": ["1c"],
 		"body": ["第 1 曲用"],
 		"description": "1c"
-	}
+	},
+	"n1": {
+		"prefix": ["n1"],
+		"body": ["第 1 曲用 性の名詞  「」の"],
+		"description": "n1"
+	},
+	"sgnom": {
+		"prefix": ["sgnom"],
+		"body": ["単数主格"],
+		"description": "sgnom"
+	},
+
 	
 }

@@ -25,11 +25,31 @@
 		"body": ["第 1 曲用 性の名詞  「」の"],
 		"description": "n1"
 	},
+	"nn": {
+		"prefix": ["nn"],
+		"body": ["第  曲用 性の名詞  「」の"],
+		"description": "nn"
+	},
+	"sgnom": {
+		"prefix": ["sgnom"],
 	"sgnom": {
 		"prefix": ["sgnom"],
 		"body": ["単数主格"],
 		"description": "sgnom"
 	},
-
-	
+	"sggen": {
+		"prefix": ["sggen"],
+		"body": ["単数属格"],
+		"description": "sggen"
+	},
+	"plnom": {
+		"prefix": ["plnom"],
+		"body": ["複数主格"],
+		"description": "plnom"
+	},
+	"plgen": {
+		"prefix": ["plgen"],
+		"body": ["複数属格"],
+		"description": "plgen"
+	},
 }
